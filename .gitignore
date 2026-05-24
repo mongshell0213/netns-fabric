@@ -1,0 +1,12 @@
+#OS / editor
+.DS_Store
+*.swp
+*.swo
+*~
+
+#Logs
+*.log
+
+#Optional: 향우 추가될 임시 파일
+.env
+.env.local
